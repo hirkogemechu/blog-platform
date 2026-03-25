@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to My Blog",
+    "content": "This is my first blog post. I'm learning full-stack development!",
+    "author": "Hirko Gemechu ",
+    "date": "2026-03-25"
+  },
+  {
+    "id": 2,
+    "title": "Learning Node.js",
+    "content": "Node.js is amazing for building backend APIs.",
+    "author": "Hirko Gemechu",
+    "date": "2024-01-16"
+  }
+]
